@@ -47,7 +47,7 @@ To setup your GH Pages site with a custom domain, [follow the instructions](http
 ### Themes
 
 Right now resume-template only has one theme. More are coming :soon: though. :heart:
-
+    
 ## Roadmap
 
 A feature roadmap is [available here](https://github.com/jglovier/resume-template/projects/1). If you features suggestions, please [open a new issue](https://github.com/jglovier/resume-template/issues/new).
