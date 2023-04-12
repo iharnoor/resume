@@ -11,7 +11,7 @@
 # Springfield Community Outreach Group
 - project: CSMusic 
   role: Medicine solution for elders @HackATL - Java, Python 
-  duration: 2019
+  duration: 2019 &mdash; Present019
   # url: "#"
   description: AR music creation app that introduces computing concepts of Computer Science to Elementary School Students devoid of internet.
 Designed to be accessible offline and students can learn concepts of for loop, if condition by the number of repetitions and the 
