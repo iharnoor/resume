@@ -1,19 +1,23 @@
 # Jobs
 # VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+- company: Microsoft Corporation
+  position: Software Engineer 
+  duration: Jul, 2022 &mdash; Present
+  summary: Mobile App Developer - Android & iOS
+
+- company: NCR (National Cash Register)
+  position: Software Engineer II
+  duration: July, 2020 &mdash; June, 2022s
+  summary: Worked on NCR Silver’s POS Android app with over one million lines of code, 19 modules, and hundreds of thousands of users worldwide. Added multiple Bug Fixes and UI Refreshes for iOS and Android NCR POS app
+  	<ul class="resume-item-list"><li>Acted as Atlanta Team software lead and scrum master for 11 developers and QA Engineers.
+    </li><li>Engineered new features for the app using Dagger2, RxJava, Kotlin Multiplatform and C++. (Cross platform libraries)
+    </li><li>Served as an interviewer for NCR and participated in recruiting at college Engineering fairs</li></ul>
 
 # Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
+- company: Panasonic Automotive
+  position: Systems Engineering Intern
   duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
-
-
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+  summary: Developed an Android app for Car’s Entertainment system that simulates Panasonic’s entertainment system helping developers learn the use-cases 2x faster
+  	<ul class="resume-item-list"><li>Made an Android app to sync vehicle and user specific data from one car to another using REST APIs from scratch.
+    </li><li>•	Built automatic tools for CAN database operations
+    </ul>
